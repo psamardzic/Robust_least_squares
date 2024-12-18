@@ -1,6 +1,6 @@
 # Robust_least_squares
 
-This repository contains the materials and code for my university term paper. Below is an overview of the included files and instructions for using the code.
+As a part of university coursework, I authored a paper deriving the foundational theory for approximation in Hilbert spaces, developed an enhanced least squares method to correct for outliers and impelemented it in MATLAB. This repository contains the materials and code for the paper. Below is an overview of the included files and instructions for using the code.
 
 ## File Structure
 
